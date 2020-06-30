@@ -54,11 +54,11 @@
 
 <a href="https://fontawesome.com/"> Font Awesome</a> - Ícones vetoriais e logotipos sociais(Mais famoso)
 
-<a href="https://app.streamlineicons.com/"> Streamline - Biblioteca repleta de ícones para ser usado
+<a href="https://app.streamlineicons.com/"> Streamline</a> - Biblioteca repleta de ícones para ser usado
   
-<a href="https://iconscout.com/ "> Iconscout - Site reúne grande acervo de ícones gratuitos
+<a href="https://iconscout.com/ "> Iconscout</a> - Site reúne grande acervo de ícones gratuitos
 
-<a href="https://rogerdudler.github.io/git-guide/index.pt_BR.html "> - Icons Bootstrap</a> - Bootstrap Icon List
+<a href="https://rogerdudler.github.io/git-guide/index.pt_BR.html "> Icons Bootstrap </a> - Bootstrap Icon List
 
 <a href=" ">
 
