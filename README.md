@@ -20,7 +20,19 @@
 
 <a href="https://color-hex.org/">Hex Color</a> - Hex Color Codes  
   
-<a href=" ">
+<a href="https://cssminifier.com">CSS Minifier</a> - Conversor de código CSS para CSS minificado
+  
+<a href="https://jscompress.com">JSCompress</a> - Conversor de código JS para JS minificado
+  
+<a href="https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm">Tabela ASCII</a> - Tabela completa com caracteres ASCII
+  
+<a href="https://mussumipsum.com">Mussum Ipsum</a> - Gerador de texto fictício
+  
+<a href="https://picsum.photos/">Loren Picsum</a> - Banco de imagens para uso como template
+  
+<a href="https://openmoji.org">OpenMoji</a> - Banco de Emoji
+  
+<a href="https://stories.freepik.com">FreePik</a> - Banco de Ilustrações
   
 <a href=" ">
   
@@ -35,6 +47,10 @@
 <a href="https://squoosh.app/">Squoosh.app</a> - Compressor de imagens e comparador, via navegador
 
 <a href="https://www.remove.bg/"> Remove.bg</a> - Remove fundos de imagens automaticamente
+
+<a href="https://tinypng.com">TinyPNG</a> - Comprima imagem do formato PNG
+  
+<a href="https://tinyjpg.com">TinyJPG</a> - Comprima imagem do formato JPG
 
 <a href="https://www.figma.com/"> Figma</a> - Desenhe projetos online de apps, softwares e websites
 
