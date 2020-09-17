@@ -77,8 +77,16 @@
 <a href="https://rogerdudler.github.io/git-guide/index.pt_BR.html "> Icons Bootstrap </a> - Bootstrap Icon List
 
 <a href=" ">
+  
+## Java - Backend
 
-<a href=" ">
+<a href="http://www.universidadejava.com.br/java/"> Universidade Java </a> - Universidade JAVA
+
+<a href="https://pt.wikibooks.org/wiki/Java"> Wiki Java </a> - Wikilivros Java
+
+<a href="http://high5devs.com/2015/02/modificadores-de-acesso-em-java/"> Link Modificadores de Acesso</a> - Hi5Devs
+
+<a href="https://www.javatpoint.com/java-joptionpane"> Java Point</a> - Java Point
 
 
 
