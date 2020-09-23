@@ -34,7 +34,7 @@
   
 <a href="https://stories.freepik.com">FreePik</a> - Banco de Ilustrações
   
-<a href=" ">
+<a href="https://slipsum.com ">Jules Ipsum</a> Gerador de Texto do Jules,Pulp Fiction
   
 <a href=" ">
 
