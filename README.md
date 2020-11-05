@@ -66,6 +66,8 @@
 
 <a href="http://www.flatuicolorpicker.com/"> Flatui Color Picker </a> - Paleta de cores interativa de forma harmonizar o front
 
+<a href="https://github.com/mathh95/css4noobs/tree/master/Modulo-Basico">CSS4Noobs </a> -  Dicas de CSS para iniciantes 
+
 ## Biblioteca de ícones
 
 <a href="https://fontawesome.com/"> Font Awesome</a> - Ícones vetoriais e logotipos sociais(Mais famoso)
