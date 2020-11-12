@@ -68,6 +68,8 @@
 
 <a href="https://github.com/mathh95/css4noobs/tree/master/Modulo-Basico">CSS4Noobs </a> -  Dicas de CSS para iniciantes 
 
+<a href="https://css-tricks.com/styling-underlines-web/"> CSS Tricks </a> - CSS Tricks
+
 ## Biblioteca de ícones
 
 <a href="https://fontawesome.com/"> Font Awesome</a> - Ícones vetoriais e logotipos sociais(Mais famoso)
