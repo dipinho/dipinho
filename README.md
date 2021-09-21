@@ -3,11 +3,12 @@
 ## I'm George de Pinho!
 
 
-:computer: A Back-end Developer(Student)!
+:computer: A Back-end Developer Jr!
 
 :house_with_garden: I’m from São Luís - MA, Brazil.
 
 :books: I’m currently learning everything about the development world with focus on back-end stacks, mainly Java.
+
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
