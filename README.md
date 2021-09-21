@@ -3,7 +3,7 @@
 ## I'm George de Pinho!
 
 
-:computer: A Back-end Developer Jr!
+:computer: A backend developer Jr and technical instructor at Cebrac Franchisin.
 
 :house_with_garden: I’m from São Luís - MA, Brazil.
 
