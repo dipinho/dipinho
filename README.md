@@ -10,7 +10,7 @@
 :books: I’m currently learning everything about the development world with focus on back-end stacks, mainly Java.
 
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: create a new project and find a new job.
 
 ## 💻 Language and Tools 
 
