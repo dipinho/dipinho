@@ -3,7 +3,7 @@
 ## I'm George de Pinho!
 
 
-:computer: A backend developer Jr and technical instructor at Cebrac Franchisin.
+:computer: A backend developer Jr and technical instructor at SENAI.
 
 :house_with_garden: I’m from São Luís - MA, Brazil.
 
