@@ -3,14 +3,14 @@
 ## I'm George de Pinho!
 
 
-:computer: A backend developer Jr and technical instructor at SENAI.
+:computer: A backend developer Jr and technical instructor at SENAI-MA.
 
 :house_with_garden: I’m from São Luís - MA, Brazil.
 
 :books: I’m currently learning everything about the development world with focus on back-end stacks, mainly Java.
 
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: be an excellent data scientist and find a new job.
 
 ## 💻 Language and Tools 
 
