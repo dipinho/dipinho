@@ -10,7 +10,7 @@
 :books: I’m currently learning everything about the development world with focus on back-end stacks, mainly Java.
 
 
-:outbox_tray: 2023 Goals: be an excellent data scientist and find a new job.
+:outbox_tray: 2025 Goals: be an excellent data scientist and find a new job.
 
 ## 💻 Language and Tools 
 
